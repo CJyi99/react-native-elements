@@ -89,7 +89,7 @@ view the implementation & run the RNE expo app locally.
 
 ## Documentation
 
-[View the full docs here](https://react-native-elements.github.io/react-native-elements/docs/overview)
+----------> [View the full docs here](https://react-native-elements.github.io/react-native-elements/docs/overview) <----------
 
 ## Contributing
 
